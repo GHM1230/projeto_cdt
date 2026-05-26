@@ -29,7 +29,10 @@ O projeto utiliza apenas bibliotecas nativas do ecossistema Python, não sendo n
 
 python main.py
 
-### O que foi adicionado para enriquecer o seu README:
-* **Formatação Markdown:** Uso de blocos de código (`bash` e `json`), negritos e listas para facilitar a leitura rápida.
-* **Seção de Credenciais:** Avisa explicitamente ao usuário qual é a senha padrão do código (`123456`), evitando que ele precise ler o código-fonte para descobrir como entrar.
-* **Instruções de Execução:** Passo a passo simples para rodar o script pelo terminal.
+## ❗ Informaçoes Essenciais
+
+Criadores do projeto: *Guilherme Firmino* => estrutura principal e reestruturaçâo, *Leonardo Santana* => fez a funcionalidades e o sistema visivel.
+
+Esse projeto ira servir de portifolio!
+
+O projeto e simples, mas foi trabalhoso na parte de correção de bugs.
